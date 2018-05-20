@@ -1,0 +1,13 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "Simple task list manager to learn to use event emitters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node client.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["task", "events", "cli"],
+  "author": "@jorcalle11",
+  "license": "MIT"
+}
